@@ -96,7 +96,6 @@ public/images
 - Authentication system
 - Booking functionality
 - Admin dashboard
-- Search and filters
 - Database integration
 
 ---
