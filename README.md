@@ -6,6 +6,12 @@ It allows users to explore different entertainment categories such as superheroe
 
 ---
 
+## 🚀 Live Demo
+
+👉 https://partyverseproject.netlify.app/
+
+---
+
 ## ✨ Features
 
 - Responsive modern UI
