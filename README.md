@@ -28,7 +28,7 @@ public/
 styles/
 data/
 
-🚀 Getting Started
+## 🚀 Getting Started
 Clone the repository
 git clone https://github.com/yourusername/partyverse.git
 Navigate to project folder
