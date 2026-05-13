@@ -1,0 +1,1313 @@
+[
+    {
+        "id": 1,
+        "name": "Star Hero Parties",
+        "slug": "star-hero-parties",
+        "description": "Star Hero Parties provides professional superhero characters for birthday parties and events across Texas.",
+        "city": "Dallas",
+        "state": "Texas",
+        "categories": [
+            "Superhero"
+        ],
+        "rating": 4.7,
+        "review_count": 128,
+        "website": "https://starheroparties.com",
+        "phone": "214-555-1234",
+        "images": [
+            "/images/superhero-1.jpg",
+            "/images/superhero-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 2,
+        "name": "Elite Superhero Squad",
+        "slug": "elite-superhero-squad",
+        "description": "Elite Superhero Squad offers premium superhero performers for kids birthday celebrations.",
+        "city": "Austin",
+        "state": "Texas",
+        "categories": [
+            "Superhero"
+        ],
+        "rating": 4.9,
+        "review_count": 241,
+        "website": "https://elitesuperherosquad.com",
+        "phone": "512-555-7812",
+        "images": [
+            "/images/superhero-1.jpg",
+            "/images/superhero-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 3,
+        "name": "Royal Princess Events",
+        "slug": "royal-princess-events",
+        "description": "Royal Princess Events brings elegant princess characters to birthdays and themed celebrations.",
+        "city": "Orlando",
+        "state": "Florida",
+        "categories": [
+            "Princess"
+        ],
+        "rating": 4.8,
+        "review_count": 198,
+        "website": "https://royalprincessevents.com",
+        "phone": "407-555-6622",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 4,
+        "name": "Dreamland Princess Co",
+        "slug": "dreamland-princess-co",
+        "description": "Dreamland Princess Co provides magical fairytale princess entertainment for children’s parties.",
+        "city": "Tampa",
+        "state": "Florida",
+        "categories": [
+            "Princess"
+        ],
+        "rating": 4.6,
+        "review_count": 112,
+        "website": "https://dreamlandprincess.com",
+        "phone": "813-555-3344",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 5,
+        "name": "Mega Mascot Party Co",
+        "slug": "mega-mascot-party-co",
+        "description": "Mega Mascot Party Co delivers fun mascot characters for birthdays, schools, and promotions.",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "categories": [
+            "Mascot"
+        ],
+        "rating": 4.5,
+        "review_count": 96,
+        "website": "https://megamascotparty.com",
+        "phone": "602-555-7744",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 6,
+        "name": "Party Time Rentals",
+        "slug": "party-time-rentals",
+        "description": "Party Time Rentals provides high-quality bounce houses, tables, and party equipment.",
+        "city": "San Diego",
+        "state": "California",
+        "categories": [
+            "Party Rentals"
+        ],
+        "rating": 4.4,
+        "review_count": 83,
+        "website": "https://partytimerentals.com",
+        "phone": "619-555-8899",
+        "images": [
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 7,
+        "name": "Ultimate Party Heroes",
+        "slug": "ultimate-party-heroes",
+        "description": "Ultimate Party Heroes combines superhero characters with premium party rental services.",
+        "city": "Los Angeles",
+        "state": "California",
+        "categories": [
+            "Superhero",
+            "Party Rentals"
+        ],
+        "rating": 4.8,
+        "review_count": 176,
+        "website": "https://ultimatepartyheroes.com",
+        "phone": "323-555-2233",
+        "images": [
+            "/images/superhero-1.jpg",
+            "/images/superhero-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 8,
+        "name": "Fairytale Party Rentals",
+        "slug": "fairytale-party-rentals",
+        "description": "Fairytale Party Rentals offers princess characters along with themed party rental setups.",
+        "city": "Sacramento",
+        "state": "California",
+        "categories": [
+            "Princess",
+            "Party Rentals"
+        ],
+        "rating": 4.5,
+        "review_count": 104,
+        "website": "https://fairytalepartyrentals.com",
+        "phone": "916-555-5566",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 9,
+        "name": "Mascot Mania Events",
+        "slug": "mascot-mania-events",
+        "description": "Mascot Mania Events specializes in energetic mascot appearances for kids events.",
+        "city": "Columbus",
+        "state": "Ohio",
+        "categories": [
+            "Mascot"
+        ],
+        "rating": 4.3,
+        "review_count": 71,
+        "website": "https://mascotmaniaevents.com",
+        "phone": "614-555-9087",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 10,
+        "name": "Royal Celebration Co",
+        "slug": "royal-celebration-co",
+        "description": "Royal Celebration Co offers princess entertainment paired with complete party rental solutions.",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "categories": [
+            "Princess",
+            "Party Rentals"
+        ],
+        "rating": 4.7,
+        "review_count": 139,
+        "website": "https://royalcelebrationco.com",
+        "phone": "404-555-6677",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 11,
+        "name": "Capital Hero Parties",
+        "slug": "capital-hero-parties",
+        "description": "Capital Hero Parties provides superhero character entertainment for birthday parties and family events.",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "categories": [
+            "Superhero"
+        ],
+        "rating": 4.6,
+        "review_count": 154,
+        "website": "https://capitalheroparties.com",
+        "phone": "202-555-1188",
+        "images": [
+            "/images/superhero-1.jpg",
+            "/images/superhero-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 12,
+        "name": "Empire State Princess Co",
+        "slug": "empire-state-princess-co",
+        "description": "Empire State Princess Co offers professional princess performers for magical celebrations.",
+        "city": "New York City",
+        "state": "New York",
+        "categories": [
+            "Princess"
+        ],
+        "rating": 4.9,
+        "review_count": 312,
+        "website": "https://empirestateprincess.com",
+        "phone": "212-555-7744",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 13,
+        "name": "Brooklyn Party Rentals",
+        "slug": "brooklyn-party-rentals",
+        "description": "Brooklyn Party Rentals supplies high-quality party equipment for birthdays and private events.",
+        "city": "Brooklyn",
+        "state": "New York",
+        "categories": [
+            "Party Rentals"
+        ],
+        "rating": 4.4,
+        "review_count": 91,
+        "website": "https://brooklynpartyrentals.com",
+        "phone": "718-555-6611",
+        "images": [
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 14,
+        "name": "Windy City Mascots",
+        "slug": "windy-city-mascots",
+        "description": "Windy City Mascots delivers energetic mascot appearances for kids events and promotions.",
+        "city": "Chicago",
+        "state": "Illinois",
+        "categories": [
+            "Mascot"
+        ],
+        "rating": 4.5,
+        "review_count": 108,
+        "website": "https://windycitymascots.com",
+        "phone": "312-555-9900",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 15,
+        "name": "Midwest Party Heroes",
+        "slug": "midwest-party-heroes",
+        "description": "Midwest Party Heroes combines superhero entertainment with full party rental solutions.",
+        "city": "Indianapolis",
+        "state": "Indiana",
+        "categories": [
+            "Superhero",
+            "Party Rentals"
+        ],
+        "rating": 4.7,
+        "review_count": 133,
+        "website": "https://midwestpartyheroes.com",
+        "phone": "317-555-2244",
+        "images": [
+            "/images/superhero-1.jpg",
+            "/images/superhero-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 16,
+        "name": "Rocky Mountain Party Co",
+        "slug": "rocky-mountain-party-co",
+        "description": "Rocky Mountain Party Co provides party rentals and themed setups for family celebrations.",
+        "city": "Denver",
+        "state": "Colorado",
+        "categories": [
+            "Party Rentals"
+        ],
+        "rating": 4.3,
+        "review_count": 79,
+        "website": "https://rockymountainpartyco.com",
+        "phone": "303-555-4412",
+        "images": [
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 17,
+        "name": "Peach State Princess Parties",
+        "slug": "peach-state-princess-parties",
+        "description": "Peach State Princess Parties offers enchanting princess experiences for kids birthdays.",
+        "city": "Savannah",
+        "state": "Georgia",
+        "categories": [
+            "Princess"
+        ],
+        "rating": 4.6,
+        "review_count": 97,
+        "website": "https://peachstateprincess.com",
+        "phone": "912-555-6678",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 18,
+        "name": "Lone Star Mascot Events",
+        "slug": "lone-star-mascot-events",
+        "description": "Lone Star Mascot Events provides lively mascot entertainment for schools and parties.",
+        "city": "Fort Worth",
+        "state": "Texas",
+        "categories": [
+            "Mascot"
+        ],
+        "rating": 4.4,
+        "review_count": 88,
+        "website": "https://lonestarmascotevents.com",
+        "phone": "817-555-9922",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 19,
+        "name": "Bay Area Party Rentals",
+        "slug": "bay-area-party-rentals",
+        "description": "Bay Area Party Rentals offers premium party equipment for birthdays and special occasions.",
+        "city": "San Jose",
+        "state": "California",
+        "categories": [
+            "Party Rentals"
+        ],
+        "rating": 4.6,
+        "review_count": 121,
+        "website": "https://bayareapartyrentals.com",
+        "phone": "408-555-3399",
+        "images": [
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 20,
+        "name": "Evergreen Party Princess Co",
+        "slug": "evergreen-party-princess-co",
+        "description": "Evergreen Party Princess Co provides princess entertainment alongside complete party rentals.",
+        "city": "Seattle",
+        "state": "Washington",
+        "categories": [
+            "Princess",
+            "Party Rentals"
+        ],
+        "rating": 4.8,
+        "review_count": 166,
+        "website": "https://evergreenpartyprincess.com",
+        "phone": "206-555-7733",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 21,
+        "name": "Liberty City Hero Parties",
+        "slug": "liberty-city-hero-parties",
+        "description": "Liberty City Hero Parties offers superhero character appearances for birthday celebrations.",
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "categories": [
+            "Superhero"
+        ],
+        "rating": 4.6,
+        "review_count": 119,
+        "website": "https://libertycityheroparties.com",
+        "phone": "215-555-4411",
+        "images": [
+            "/images/superhero-1.jpg",
+            "/images/superhero-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 22,
+        "name": "Garden State Princess Co",
+        "slug": "garden-state-princess-co",
+        "description": "Garden State Princess Co delivers elegant princess entertainment for kids parties.",
+        "city": "Princeton",
+        "state": "New Jersey",
+        "categories": [
+            "Princess"
+        ],
+        "rating": 4.7,
+        "review_count": 102,
+        "website": "https://gardenstateprincess.com",
+        "phone": "609-555-8877",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 23,
+        "name": "Boston Party Rentals",
+        "slug": "boston-party-rentals",
+        "description": "Boston Party Rentals provides party equipment and supplies for birthdays and events.",
+        "city": "Boston",
+        "state": "Massachusetts",
+        "categories": [
+            "Party Rentals"
+        ],
+        "rating": 4.5,
+        "review_count": 134,
+        "website": "https://bostonpartyrentals.com",
+        "phone": "617-555-7788",
+        "images": [
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 24,
+        "name": "Queen City Mascot Events",
+        "slug": "queen-city-mascot-events",
+        "description": "Queen City Mascot Events provides energetic mascot performances for family celebrations.",
+        "city": "Charlotte",
+        "state": "North Carolina",
+        "categories": [
+            "Mascot"
+        ],
+        "rating": 4.4,
+        "review_count": 89,
+        "website": "https://queencitymascotevents.com",
+        "phone": "704-555-6622",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 25,
+        "name": "Carolina Royal Parties",
+        "slug": "carolina-royal-parties",
+        "description": "Carolina Royal Parties combines princess entertainment with complete party rental services.",
+        "city": "Charleston",
+        "state": "South Carolina",
+        "categories": [
+            "Princess",
+            "Party Rentals"
+        ],
+        "rating": 4.8,
+        "review_count": 147,
+        "website": "https://carolinaroyalparties.com",
+        "phone": "843-555-2233",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 26,
+        "name": "Music City Party Heroes",
+        "slug": "music-city-party-heroes",
+        "description": "Music City Party Heroes offers superhero appearances along with party rental solutions.",
+        "city": "Nashville",
+        "state": "Tennessee",
+        "categories": [
+            "Superhero",
+            "Party Rentals"
+        ],
+        "rating": 4.7,
+        "review_count": 158,
+        "website": "https://musiccitypartyheroes.com",
+        "phone": "615-555-9911",
+        "images": [
+            "/images/superhero-1.jpg",
+            "/images/superhero-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 27,
+        "name": "Motor City Mascots",
+        "slug": "motor-city-mascots",
+        "description": "Motor City Mascots specializes in mascot entertainment for kids and community events.",
+        "city": "Detroit",
+        "state": "Michigan",
+        "categories": [
+            "Mascot"
+        ],
+        "rating": 4.3,
+        "review_count": 74,
+        "website": "https://motorcitymascots.com",
+        "phone": "313-555-7744",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 28,
+        "name": "Twin Cities Party Rentals",
+        "slug": "twin-cities-party-rentals",
+        "description": "Twin Cities Party Rentals offers reliable party equipment for birthdays and celebrations.",
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "categories": [
+            "Party Rentals"
+        ],
+        "rating": 4.6,
+        "review_count": 111,
+        "website": "https://twincitiespartyrentals.com",
+        "phone": "612-555-4488",
+        "images": [
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 29,
+        "name": "Badger State Princess Parties",
+        "slug": "badger-state-princess-parties",
+        "description": "Badger State Princess Parties provides fairytale princess experiences for kids.",
+        "city": "Madison",
+        "state": "Wisconsin",
+        "categories": [
+            "Princess"
+        ],
+        "rating": 4.5,
+        "review_count": 93,
+        "website": "https://badgerstateprincess.com",
+        "phone": "608-555-3366",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 30,
+        "name": "Gateway City Party Co",
+        "slug": "gateway-city-party-co",
+        "description": "Gateway City Party Co delivers mascot entertainment and party rental services.",
+        "city": "St. Louis",
+        "state": "Missouri",
+        "categories": [
+            "Mascot",
+            "Party Rentals"
+        ],
+        "rating": 4.6,
+        "review_count": 129,
+        "website": "https://gatewaycitypartyco.com",
+        "phone": "314-555-8822",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 31,
+        "name": "Steel City Superheroes",
+        "slug": "steel-city-superheroes",
+        "description": "Steel City Superheroes provides professional superhero characters for birthday parties and private events.",
+        "city": "Pittsburgh",
+        "state": "Pennsylvania",
+        "categories": [
+            "Superhero"
+        ],
+        "rating": 4.6,
+        "review_count": 117,
+        "website": "https://steelcitysuperheroes.com",
+        "phone": "412-555-7811",
+        "images": [
+            "/images/superhero-1.jpg",
+            "/images/superhero-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 32,
+        "name": "Pacific Princess Parties",
+        "slug": "pacific-princess-parties",
+        "description": "Pacific Princess Parties offers elegant princess entertainment for children’s celebrations.",
+        "city": "Portland",
+        "state": "Oregon",
+        "categories": [
+            "Princess"
+        ],
+        "rating": 4.7,
+        "review_count": 109,
+        "website": "https://pacificprincessparties.com",
+        "phone": "503-555-6644",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 33,
+        "name": "Desert Party Rentals",
+        "slug": "desert-party-rentals",
+        "description": "Desert Party Rentals supplies reliable party equipment for birthdays and family events.",
+        "city": "Las Vegas",
+        "state": "Nevada",
+        "categories": [
+            "Party Rentals"
+        ],
+        "rating": 4.5,
+        "review_count": 141,
+        "website": "https://desertpartyrentals.com",
+        "phone": "702-555-3399",
+        "images": [
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 34,
+        "name": "Red Rock Mascot Events",
+        "slug": "red-rock-mascot-events",
+        "description": "Red Rock Mascot Events brings high-energy mascot performances to kids parties.",
+        "city": "St. George",
+        "state": "Utah",
+        "categories": [
+            "Mascot"
+        ],
+        "rating": 4.4,
+        "review_count": 82,
+        "website": "https://redrockmascotevents.com",
+        "phone": "435-555-1177",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 35,
+        "name": "Emerald City Party Heroes",
+        "slug": "emerald-city-party-heroes",
+        "description": "Emerald City Party Heroes combines superhero entertainment with full party rental services.",
+        "city": "Bellevue",
+        "state": "Washington",
+        "categories": [
+            "Superhero",
+            "Party Rentals"
+        ],
+        "rating": 4.8,
+        "review_count": 168,
+        "website": "https://emeraldcitypartyheroes.com",
+        "phone": "425-555-9922",
+        "images": [
+            "/images/superhero-1.jpg",
+            "/images/superhero-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 36,
+        "name": "Heartland Princess Co",
+        "slug": "heartland-princess-co",
+        "description": "Heartland Princess Co offers fairytale princess experiences for birthdays and special occasions.",
+        "city": "Des Moines",
+        "state": "Iowa",
+        "categories": [
+            "Princess"
+        ],
+        "rating": 4.6,
+        "review_count": 94,
+        "website": "https://heartlandprincess.com",
+        "phone": "515-555-4488",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 37,
+        "name": "Bayou Party Rentals",
+        "slug": "bayou-party-rentals",
+        "description": "Bayou Party Rentals provides party equipment and setups for celebrations and events.",
+        "city": "Baton Rouge",
+        "state": "Louisiana",
+        "categories": [
+            "Party Rentals"
+        ],
+        "rating": 4.5,
+        "review_count": 121,
+        "website": "https://bayoupartyrentals.com",
+        "phone": "225-555-6611",
+        "images": [
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 38,
+        "name": "Granite State Mascots",
+        "slug": "granite-state-mascots",
+        "description": "Granite State Mascots delivers friendly mascot characters for kids parties and community events.",
+        "city": "Concord",
+        "state": "New Hampshire",
+        "categories": [
+            "Mascot"
+        ],
+        "rating": 4.3,
+        "review_count": 68,
+        "website": "https://granitestatemascots.com",
+        "phone": "603-555-7733",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 39,
+        "name": "Green Mountain Princess Parties",
+        "slug": "green-mountain-princess-parties",
+        "description": "Green Mountain Princess Parties brings enchanting princess characters to children’s celebrations.",
+        "city": "Burlington",
+        "state": "Vermont",
+        "categories": [
+            "Princess"
+        ],
+        "rating": 4.7,
+        "review_count": 86,
+        "website": "https://greenmountainprincess.com",
+        "phone": "802-555-3399",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 40,
+        "name": "River City Party Co",
+        "slug": "river-city-party-co",
+        "description": "River City Party Co offers mascot entertainment alongside complete party rental solutions.",
+        "city": "Little Rock",
+        "state": "Arkansas",
+        "categories": [
+            "Mascot",
+            "Party Rentals"
+        ],
+        "rating": 4.6,
+        "review_count": 113,
+        "website": "https://rivercitypartyco.com",
+        "phone": "501-555-8844",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 41,
+        "name": "Sunshine State Superheroes",
+        "slug": "sunshine-state-superheroes",
+        "description": "Sunshine State Superheroes provides energetic superhero performers for kids birthday parties.",
+        "city": "Jacksonville",
+        "state": "Florida",
+        "categories": [
+            "Superhero"
+        ],
+        "rating": 4.6,
+        "review_count": 142,
+        "website": "https://sunshinestatesuperheroes.com",
+        "phone": "904-555-7711",
+        "images": [
+            "/images/superhero-1.jpg",
+            "/images/superhero-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 42,
+        "name": "Bluegrass Princess Parties",
+        "slug": "bluegrass-princess-parties",
+        "description": "Bluegrass Princess Parties offers magical princess entertainment for children’s celebrations.",
+        "city": "Lexington",
+        "state": "Kentucky",
+        "categories": [
+            "Princess"
+        ],
+        "rating": 4.7,
+        "review_count": 91,
+        "website": "https://bluegrassprincessparties.com",
+        "phone": "859-555-3344",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 43,
+        "name": "Alamo City Party Rentals",
+        "slug": "alamo-city-party-rentals",
+        "description": "Alamo City Party Rentals supplies party equipment for birthdays and family events.",
+        "city": "San Antonio",
+        "state": "Texas",
+        "categories": [
+            "Party Rentals"
+        ],
+        "rating": 4.5,
+        "review_count": 118,
+        "website": "https://alamocitypartyrentals.com",
+        "phone": "210-555-6677",
+        "images": [
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 44,
+        "name": "Silver State Mascot Events",
+        "slug": "silver-state-mascot-events",
+        "description": "Silver State Mascot Events delivers engaging mascot performances for kids and community events.",
+        "city": "Reno",
+        "state": "Nevada",
+        "categories": [
+            "Mascot"
+        ],
+        "rating": 4.4,
+        "review_count": 76,
+        "website": "https://silverstatemascotevents.com",
+        "phone": "775-555-9911",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 45,
+        "name": "Capital City Celebration Co",
+        "slug": "capital-city-celebration-co",
+        "description": "Capital City Celebration Co offers princess entertainment with full party rental services.",
+        "city": "Madison",
+        "state": "Wisconsin",
+        "categories": [
+            "Princess",
+            "Party Rentals"
+        ],
+        "rating": 4.8,
+        "review_count": 134,
+        "website": "https://capitalcitycelebrationco.com",
+        "phone": "608-555-8899",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 46,
+        "name": "Front Range Party Heroes",
+        "slug": "front-range-party-heroes",
+        "description": "Front Range Party Heroes combines superhero appearances with professional party rental services.",
+        "city": "Fort Collins",
+        "state": "Colorado",
+        "categories": [
+            "Superhero",
+            "Party Rentals"
+        ],
+        "rating": 4.7,
+        "review_count": 156,
+        "website": "https://frontrangepartyheroes.com",
+        "phone": "970-555-2233",
+        "images": [
+            "/images/superhero-1.jpg",
+            "/images/superhero-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 47,
+        "name": "Keystone Mascot Co",
+        "slug": "keystone-mascot-co",
+        "description": "Keystone Mascot Co provides friendly mascot entertainment for schools and kids events.",
+        "city": "Harrisburg",
+        "state": "Pennsylvania",
+        "categories": [
+            "Mascot"
+        ],
+        "rating": 4.3,
+        "review_count": 69,
+        "website": "https://keystonemascotco.com",
+        "phone": "717-555-7788",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 48,
+        "name": "Great Plains Party Rentals",
+        "slug": "great-plains-party-rentals",
+        "description": "Great Plains Party Rentals offers reliable party equipment for birthdays and celebrations.",
+        "city": "Omaha",
+        "state": "Nebraska",
+        "categories": [
+            "Party Rentals"
+        ],
+        "rating": 4.5,
+        "review_count": 97,
+        "website": "https://greatplainspartyrentals.com",
+        "phone": "402-555-4411",
+        "images": [
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 49,
+        "name": "Mountain Princess Parties",
+        "slug": "mountain-princess-parties",
+        "description": "Mountain Princess Parties brings fairytale princess experiences to kids birthday parties.",
+        "city": "Bozeman",
+        "state": "Montana",
+        "categories": [
+            "Princess"
+        ],
+        "rating": 4.6,
+        "review_count": 83,
+        "website": "https://mountainprincessparties.com",
+        "phone": "406-555-6633",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 50,
+        "name": "High Desert Party Co",
+        "slug": "high-desert-party-co",
+        "description": "High Desert Party Co provides mascot entertainment alongside complete party rental solutions.",
+        "city": "Albuquerque",
+        "state": "New Mexico",
+        "categories": [
+            "Mascot",
+            "Party Rentals"
+        ],
+        "rating": 4.6,
+        "review_count": 121,
+        "website": "https://highdesertpartyco.com",
+        "phone": "505-555-8822",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 51,
+        "name": "Golden Gate Superheroes",
+        "slug": "golden-gate-superheroes",
+        "description": "Golden Gate Superheroes offers professional superhero appearances for kids birthday celebrations.",
+        "city": "San Francisco",
+        "state": "California",
+        "categories": [
+            "Superhero"
+        ],
+        "rating": 4.8,
+        "review_count": 189,
+        "website": "https://goldengatesuperheroes.com",
+        "phone": "415-555-7722",
+        "images": [
+            "/images/superhero-1.jpg",
+            "/images/superhero-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 52,
+        "name": "Lakeside Princess Parties",
+        "slug": "lakeside-princess-parties",
+        "description": "Lakeside Princess Parties delivers elegant princess entertainment for children’s parties.",
+        "city": "Cleveland",
+        "state": "Ohio",
+        "categories": [
+            "Princess"
+        ],
+        "rating": 4.6,
+        "review_count": 94,
+        "website": "https://lakesideprincessparties.com",
+        "phone": "216-555-3388",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 53,
+        "name": "Sooner State Party Rentals",
+        "slug": "sooner-state-party-rentals",
+        "description": "Sooner State Party Rentals provides party equipment and supplies for birthdays and events.",
+        "city": "Oklahoma City",
+        "state": "Oklahoma",
+        "categories": [
+            "Party Rentals"
+        ],
+        "rating": 4.5,
+        "review_count": 108,
+        "website": "https://soonerstatepartyrentals.com",
+        "phone": "405-555-6677",
+        "images": [
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 54,
+        "name": "Palmetto Mascot Events",
+        "slug": "palmetto-mascot-events",
+        "description": "Palmetto Mascot Events brings energetic mascot entertainment to kids and community events.",
+        "city": "Columbia",
+        "state": "South Carolina",
+        "categories": [
+            "Mascot"
+        ],
+        "rating": 4.4,
+        "review_count": 77,
+        "website": "https://palmettomascotevents.com",
+        "phone": "803-555-4411",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 55,
+        "name": "Capital Coast Celebration Co",
+        "slug": "capital-coast-celebration-co",
+        "description": "Capital Coast Celebration Co offers princess entertainment paired with full party rental services.",
+        "city": "Annapolis",
+        "state": "Maryland",
+        "categories": [
+            "Princess",
+            "Party Rentals"
+        ],
+        "rating": 4.7,
+        "review_count": 126,
+        "website": "https://capitalcoastcelebration.com",
+        "phone": "410-555-2299",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 56,
+        "name": "Tri-State Party Heroes",
+        "slug": "tri-state-party-heroes",
+        "description": "Tri-State Party Heroes provides superhero entertainment along with complete party rental solutions.",
+        "city": "Cincinnati",
+        "state": "Ohio",
+        "categories": [
+            "Superhero",
+            "Party Rentals"
+        ],
+        "rating": 4.8,
+        "review_count": 164,
+        "website": "https://tristatepartyheroes.com",
+        "phone": "513-555-8877",
+        "images": [
+            "/images/superhero-1.jpg",
+            "/images/superhero-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 57,
+        "name": "Great Basin Party Rentals",
+        "slug": "great-basin-party-rentals",
+        "description": "Great Basin Party Rentals supplies party equipment for birthdays and family celebrations.",
+        "city": "Carson City",
+        "state": "Nevada",
+        "categories": [
+            "Party Rentals"
+        ],
+        "rating": 4.4,
+        "review_count": 69,
+        "website": "https://greatbasinpartyrentals.com",
+        "phone": "775-555-6633",
+        "images": [
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 58,
+        "name": "Prairie State Mascots",
+        "slug": "prairie-state-mascots",
+        "description": "Prairie State Mascots delivers friendly mascot entertainment for children’s parties.",
+        "city": "Springfield",
+        "state": "Illinois",
+        "categories": [
+            "Mascot"
+        ],
+        "rating": 4.3,
+        "review_count": 72,
+        "website": "https://prairiestatemascots.com",
+        "phone": "217-555-9944",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 59,
+        "name": "Lowcountry Princess Parties",
+        "slug": "lowcountry-princess-parties",
+        "description": "Lowcountry Princess Parties offers magical princess experiences for children’s celebrations.",
+        "city": "Hilton Head Island",
+        "state": "South Carolina",
+        "categories": [
+            "Princess"
+        ],
+        "rating": 4.6,
+        "review_count": 88,
+        "website": "https://lowcountryprincessparties.com",
+        "phone": "843-555-7711",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 60,
+        "name": "Sun Valley Party Co",
+        "slug": "sun-valley-party-co",
+        "description": "Sun Valley Party Co provides mascot entertainment alongside full party rental services.",
+        "city": "Idaho Falls",
+        "state": "Idaho",
+        "categories": [
+            "Mascot",
+            "Party Rentals"
+        ],
+        "rating": 4.7,
+        "review_count": 132,
+        "website": "https://sunvalleypartyco.com",
+        "phone": "208-555-8822",
+        "images": [
+            "/images/mascot-1.jpg",
+            "/images/mascot-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    },
+    {
+        "id": 61,
+        "name": "Riverbend Superhero Parties",
+        "slug": "riverbend-superhero-parties",
+        "description": "Riverbend Superhero Parties provides exciting superhero appearances for kids birthday events.",
+        "city": "Davenport",
+        "state": "Iowa",
+        "categories": [
+            "Superhero"
+        ],
+        "rating": 4.5,
+        "review_count": 91,
+        "website": "https://riverbendsuperheroparties.com",
+        "phone": "563-555-4411",
+        "images": [
+            "/images/superhero-1.jpg",
+            "/images/superhero-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 62,
+        "name": "Seaside Party Rentals",
+        "slug": "seaside-party-rentals",
+        "description": "Seaside Party Rentals supplies party equipment and setups for birthdays and family celebrations.",
+        "city": "Santa Monica",
+        "state": "California",
+        "categories": [
+            "Party Rentals"
+        ],
+        "rating": 4.6,
+        "review_count": 114,
+        "website": "https://seasidepartyrentals.com",
+        "phone": "310-555-7788",
+        "images": [
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": false
+    },
+    {
+        "id": 63,
+        "name": "Magnolia Princess & Party Co",
+        "slug": "magnolia-princess-party-co",
+        "description": "Magnolia Princess & Party Co offers princess entertainment combined with complete party rental services.",
+        "city": "Jackson",
+        "state": "Mississippi",
+        "categories": [
+            "Princess",
+            "Party Rentals"
+        ],
+        "rating": 4.7,
+        "review_count": 123,
+        "website": "https://magnoliaprincesspartyco.com",
+        "phone": "601-555-6622",
+        "images": [
+            "/images/princess-1.jpg",
+            "/images/princess-2.jpg",
+            "/images/party-rentals-1.jpg",
+            "/images/party-rentals-2.jpg"
+        ],
+        "featured": true
+    }
+]
