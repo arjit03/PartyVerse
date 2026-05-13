@@ -1,7 +1,10 @@
 # PartyVerse 🎉
 
-PartyVerse is a modern party and entertainment directory web application built with Next.js.  
+PartyVerse is a modern party and entertainment directory web application built with Next.js.
+
 It allows users to explore different entertainment categories such as superheroes, princess characters, mascots, and party rental services.
+
+---
 
 ## ✨ Features
 
@@ -12,12 +15,16 @@ It allows users to explore different entertainment categories such as superheroe
 - Mobile-friendly navigation
 - Fast performance with Next.js
 
+---
+
 ## 🛠️ Tech Stack
 
 - Next.js
 - React.js
 - JavaScript
 - CSS / SCSS
+
+---
 
 ## 📂 Project Structure
 
@@ -27,40 +34,79 @@ pages/
 public/
 styles/
 data/
+```
+
+---
 
 ## 🚀 Getting Started
-Clone the repository
+
+### Clone the repository
+
+```bash
 git clone https://github.com/yourusername/partyverse.git
-Navigate to project folder
+```
+
+### Navigate to project folder
+
+```bash
 cd partyverse
-Install dependencies
+```
+
+### Install dependencies
+
+```bash
 npm install
-Run development server
+```
+
+### Run development server
+
+```bash
 npm run dev
+```
 
-Open:
+Open in browser:
 
+```bash
 http://localhost:3000
-📸 Images
+```
+
+---
+
+## 📸 Images
 
 All static images are stored inside:
 
+```bash
 public/images
-🧩 Categories
-Superhero
-Princess
-Mascot
-Party Rentals
-📌 Future Improvements
-Authentication system
-Booking functionality
-Admin dashboard
-Search and filters
-Database integration
-👨‍💻 Author
+```
 
-Arjit Sasan
+---
 
-📄 License
+## 🧩 Categories
+
+- Superhero
+- Princess
+- Mascot
+- Party Rentals
+
+---
+
+## 📌 Future Improvements
+
+- Authentication system
+- Booking functionality
+- Admin dashboard
+- Search and filters
+- Database integration
+
+---
+
+## 👨‍💻 Author
+
+**Arjit Sasan**
+
+---
+
+## 📄 License
 
 This project is for learning and portfolio purposes.
